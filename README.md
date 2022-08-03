@@ -7,8 +7,8 @@
 ***C++/C#/Java Developer*** | ***C++/C#/Java Developer*** | ***C++/C#/Java Developer***
 <!--
 - About: 
-- Blog: 
-- Telegram: [@]() -->
+- Blog: -->
+- Telegram: [@](https://t.me/Raven_s_Soul) 
 - Discord: Raven's Soul#9583
 - Email: [sariotedesco@gmail.com](mailto:sariotedesco@gmail.com)
 - GameDev/Design Portfolio: https://sario-tedesco.github.io/portfolio/
