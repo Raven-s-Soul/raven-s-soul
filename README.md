@@ -1,13 +1,16 @@
-### Yo 👋
+<!-- ### Raven's Soul -->
+<!-- ** Raven's Soul ** -->
+<p align="center">
+   <img src="" alt="Raven's Soul"/>
+</p>
+
+***C++/C#/Java Developer*** | ***C++/C#/Java Developer*** | ***C++/C#/Java Developer***
+<!--
+- About: 
+- Blog: 
+- Telegram: [@]() -->
+- Discord: Raven's Soul#9583
+- Email: [sariotedesco@gmail.com](mailto:sariotedesco@gmail.com)
+- GameDev/Design Portfolio: https://sario-tedesco.github.io/portfolio/
 
 
-- 🌱 I’m currently learning C++ | C# | Unity
-
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: (Discord)Raven's Soul#9583
-- ⚡ Fun fact: I played so much fps that I draw better with the mouse than with the graphics tablet.
-
-<!-- - 🔭 I’m currently working on some private project!-->
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...  
-- 💬 Ask me about ... -->
