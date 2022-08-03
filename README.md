@@ -4,7 +4,7 @@
    <img src="" alt="Raven's Soul"/>
 </p>
 
-***C++/C#/Java/JavaScript Developer***
+***C++/C#/Java/JavaScript -ish Developer***
 <!--
 - About: 
 - Blog: -->
