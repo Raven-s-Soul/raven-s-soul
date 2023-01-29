@@ -1,9 +1,9 @@
 <!-- ### Raven's Soul -->
-<!-- ** Raven's Soul ** -->
+<!-- ** Raven's Soul **
 <p align="center">
    <img src="" alt="Raven's Soul"/>
 </p>
-
+-->
 ***C++/C#/Java/JavaScript -ish Developer***
 <!--
 - About: 
