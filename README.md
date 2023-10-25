@@ -10,6 +10,6 @@
 - Blog: -->
 - Telegram: [@Raven_s_Soul](https://t.me/Raven_s_Soul) 
 - Discord: Raven's Soul#9583
-- GameDev/Design Portfolio: https://raven-s-soul.github.io/portfolio/
+- GameDev/Design Portfolio: [Link](https://raven-s-soul.github.io/portfolio/)
 <!-- - Email: [sariotedesco@gmail.com](mailto:sariotedesco@gmail.com)-->
 
