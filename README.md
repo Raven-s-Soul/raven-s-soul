@@ -7,8 +7,8 @@
 ***C/C++/C#/Java/JavaScript -ish Developer***
 <!--
 - About: 
-- Blog: -->
-- Telegram: [@Raven_s_Soul](https://t.me/Raven_s_Soul) 
+- Blog: 
+- Telegram: [@Raven_s_Soul](https://t.me/Raven_s_Soul) -->
 - Discord: -
 - GameDev/Design Portfolio: [Link](https://raven-s-soul.github.io/portfolio/)
 <!-- - Email: [sariotedesco@gmail.com](mailto:sariotedesco@gmail.com)-->
