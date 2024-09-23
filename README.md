@@ -6,34 +6,39 @@
 # Yahallo!
 I'm an **`engineering student`** and `jack of all trades master of none`.<br>
 Here my arsenal of coding languages, with bunch of tecnologys and tools that I've been using.
-
 <!-- ***C/C++/C#/Java/JavaScript -ish Developer*** -->
-<div align="center">
 
-[![c](https://skillicons.dev/icons?i=c)]()
-[![cpp](https://skillicons.dev/icons?i=cpp)]()
-[![cs](https://skillicons.dev/icons?i=cs)]()
-[![java](https://skillicons.dev/icons?i=java)]()
-[![js](https://skillicons.dev/icons?i=js)]()
-[![python](https://skillicons.dev/icons?i=python)]()
 <!--[![php](https://skillicons.dev/icons?i=php)]() -->
 <!-- [![Coding Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,js,python,php)]()-->
-[![Tecnologis](https://skillicons.dev/icons?i=unreal,unity)](https://raven-s-soul.github.io/portfolio/)
-[![DBMS](https://skillicons.dev/icons?i=mysql,mongodb)]()
-[![Tecnologis](https://skillicons.dev/icons?i=react,postman,cmake)]()
 <!--[![Tecnologis](https://skillicons.dev/icons?i=bash,git,cmake,postman,nodejs,react,replit)]()-->
-[![Arts](https://skillicons.dev/icons?i=ps,ae,pr,ai,blender)]() <br>
+<div align="center">
+   
+[![c](https://skillicons.dev/icons?i=c)](https://github.com/Raven-s-Soul/Data-Structures-and-Algorithms)
+[![cpp](https://skillicons.dev/icons?i=cpp)]()
+[![cs](https://skillicons.dev/icons?i=cs)]()
+[![java](https://skillicons.dev/icons?i=java)](https://github.com/Raven-s-Soul/OOP-ObjectOrientedProgramming)
+[![js](https://skillicons.dev/icons?i=js)]()
+[![python](https://skillicons.dev/icons?i=python)]()</br>
+[![Tecnologis](https://skillicons.dev/icons?i=unreal)](https://www.unrealengine.com)
+[![Tecnologis](https://skillicons.dev/icons?i=unity)](https://unity.com/)
+[![DBMS](https://skillicons.dev/icons?i=mysql,mongodb)](https://en.wikipedia.org/wiki/Database) 
+[![Tecnologis](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Tecnologis](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Tecnologis](https://skillicons.dev/icons?i=cmake)](https://cmake.org/)</br>
+[![Arts](https://skillicons.dev/icons?i=ps,ae,pr,ai,blender)]()
 <!-- [![University](https://skillicons.dev/icons?i=matlab)]() -->
-
-<!-- Grafica statistiche -->
-<!--
-<p align="center">
-  <a href="https://github.com/raven-s-soul"><img src="https://github-readme-stats.vercel.app/api?username=raven-s-soul&hide_border=true&show_icons=true" alt="raven-s-soul's github stats"></a>
-</p>
--->
-
 </div>
 
+
+
+<!-- Grafica statistiche -->
+<details>
+<summary>GitHub Stats</summary>
+<p align="center">
+    <img  alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raven-s-soul&hide_border=true&show_icons=true&theme=shadow_red">
+    <img  alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raven-s-soul&hide=html,&hide_border=true&theme=shadow_red">
+</p>
+</details>
 
 <!--
 - About: 
@@ -42,4 +47,3 @@ Here my arsenal of coding languages, with bunch of tecnologys and tools that I'v
 - Discord: - 
 - GameDev/Design Portfolio: [Link](https://raven-s-soul.github.io/portfolio/) -->
 <!-- - Email: [sariotedesco@gmail.com](mailto:sariotedesco@gmail.com)-->
-
