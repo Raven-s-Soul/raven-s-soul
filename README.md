@@ -35,8 +35,8 @@ Here my arsenal of coding languages, with bunch of tecnologys and tools that I'v
 <details>
 <summary>GitHub Stats</summary>
 <p align="center">
-    <img  alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raven-s-soul&hide_border=true&show_icons=true&theme=shadow_blue">
-    <img  alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raven-s-soul&hide=html,&hide_border=true&theme=shadow_blue">
+    <img  alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raven-s-soul&hide_border=true&show_icons=true&theme=transparent">
+    <img  alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raven-s-soul&hide=html,&hide_border=true&theme=transparent">
 </p>
 </details>
 
