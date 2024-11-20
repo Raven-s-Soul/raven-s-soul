@@ -39,22 +39,23 @@ Here my arsenal of coding languages, with bunch of tecnologys and tools that I'v
 <summary><h3>University Courses Repositorys</h3></summary>
  
 <p align="center" >
-   <!-- <img align="center" alt = "" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo="> -->
-   <img align="center" alt = "Data-Structures-and-Algorithms" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=Data-Structures-and-Algorithms">
-   <img align="center" alt = "OOP-ObjectOrientedProgramming" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=OOP-ObjectOrientedProgramming"> 
-   <img align="center" alt = "SistemiOperativi" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=SistemiOperativi">
-   <img align="center" alt = "Basi di dati" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=Basi-di-dati">
-   <img align="center" alt = "IT-Fundamentals" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=IT-Fundamentals">
-   <img align="center" alt = "Mobile-Computing" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=Mobile-Computing">
-   
-</p>
+   <!-- <a href="https://github.com/Raven-s-Soul/"> <img align="center" alt = "" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo="> </a> -->
+   <a href="https://github.com/Raven-s-Soul/Data-Structures-and-Algorithms"> <img align="center" alt = "Data-Structures-and-Algorithms" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=Data-Structures-and-Algorithms"></a>
+   <a href="https://github.com/Raven-s-Soul/OOP-ObjectOrientedProgramming"> <img align="center" alt = "OOP-ObjectOrientedProgramming" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=OOP-ObjectOrientedProgramming"> </a>
+   <a href="https://github.com/Raven-s-Soul/SistemiOperativi"> <img align="center" alt = "SistemiOperativi" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=SistemiOperativi"></a>
+   <a href="https://github.com/Raven-s-Soul/Basi-di-dati"> <img align="center" alt = "Basi di dati" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=Basi-di-dati"></a>
+   <a href="https://github.com/Raven-s-Soul/IT-Fundamentals"> <img align="center" alt = "IT-Fundamentals" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=IT-Fundamentals"></a>
+   <a href="https://github.com/Raven-s-Soul/Mobile-Computing"> <img align="center" alt = "Mobile-Computing" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=Mobile-Computing"></a>
+   <a href="https://github.com/Raven-s-Soul/DamnatioMemoriae"> <img align="center" alt = "DamnatioMemoriae" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=DamnatioMemoriae"></a>
+
+</p> 
 </details>
 
 
 
 <!-- Grafica statistiche -->
 <details>
-<summary>GitHub Stats</summary>
+<summary><h3>GitHub Stats</h3></summary>
 <p align="center" >
    <img align="center" alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raven-s-soul&hide_border=true&show_icons=true&theme=github_dark">
    <img align="center" alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark">
