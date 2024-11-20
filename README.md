@@ -31,7 +31,17 @@ Here my arsenal of coding languages, with bunch of tecnologys and tools that I'v
 
 
 
+<!-- Projects in progress -->
 
+<details>
+<summary><h3>Projects in progress</h3></summary>
+<p align="center" >
+   <!-- <a href="https://github.com/Raven-s-Soul/"> <img align="center" alt = "" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo="></a> -->
+   <a href="https://github.com/Raven-s-Soul/GitMe"> <img align="center" alt = "GitMe" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=GitMe"></a>
+   <a href="https://github.com/Raven-s-Soul/DearMath"> <img align="center" alt = "DearMath" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=DearMath"></a> 
+   <a href="https://github.com/Raven-s-Soul/Momento-FabricMod"> <img align="center" alt = "Momento-FabricMod" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=Momento-FabricMod"></a>
+</p> 
+</details>
 
 <!-- University Courses Repositorys -->
 
