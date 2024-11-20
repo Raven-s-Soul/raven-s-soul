@@ -31,6 +31,27 @@ Here my arsenal of coding languages, with bunch of tecnologys and tools that I'v
 
 
 
+
+
+<!-- University Courses Repositorys -->
+
+<details>
+<summary><h3>University Courses Repositorys</h3></summary>
+ 
+<p align="center" >
+   <!-- <img align="center" alt = "" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo="> -->
+   <img align="center" alt = "Data-Structures-and-Algorithms" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=Data-Structures-and-Algorithms">
+   <img align="center" alt = "OOP-ObjectOrientedProgramming" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=OOP-ObjectOrientedProgramming"> 
+   <img align="center" alt = "SistemiOperativi" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=SistemiOperativi">
+   <img align="center" alt = "Basi di dati" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=Basi-di-dati">
+   <img align="center" alt = "IT-Fundamentals" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=IT-Fundamentals">
+   <img align="center" alt = "Mobile-Computing" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark&repo=Mobile-Computing">
+   
+</p>
+</details>
+
+
+
 <!-- Grafica statistiche -->
 <details>
 <summary>GitHub Stats</summary>
@@ -40,13 +61,7 @@ Here my arsenal of coding languages, with bunch of tecnologys and tools that I'v
 </p>
 </details>
 
-<p align="center" >
-   <!-- <img align="center" alt = "" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html&theme=github_dark&repo="> -->
-   <img align="center" alt = "Data-Structures-and-Algorithms" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html&theme=github_dark&repo=Data-Structures-and-Algorithms">
-   <img align="center" alt = "OOP-ObjectOrientedProgramming" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html&theme=github_dark&repo=OOP-ObjectOrientedProgramming"> 
-   <img align="center" alt = "SistemiOperativi" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html&theme=github_dark&repo=SistemiOperativi">
-   <img align="center" alt = "Basi di dati" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html&theme=github_dark&repo=Basi-di-dati">
-</p>
+
 
 <!--
 - About: 
