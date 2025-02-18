@@ -74,6 +74,11 @@ Here my arsenal of coding languages, with bunch of tecnologys and tools that I'v
    <br>
 </p>
 <p align="center">
+   <a href="https://github.com/Raven-s-Soul/Calcolatori-Elettronici"> <img align="center" alt = "Calcolatori-Elettronici" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&border_color=373D46&theme=github_dark&repo=Calcolatori-Elettronici"></a>
+
+   
+</p>
+<p align="center">
    <a href="https://github.com/Raven-s-Soul/DamnatioMemoriae"> <img align="center" alt = "DamnatioMemoriae" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&border_color=373D46&theme=github_dark&repo=DamnatioMemoriae"></a>
 
 </p> 
