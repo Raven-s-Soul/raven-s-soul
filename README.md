@@ -89,7 +89,15 @@ Here my arsenal of coding languages, with bunch of tecnologys and tools that I'v
 <!-- Grafica statistiche -->
 <details>
 <summary><h3>GitHub Stats</h3></summary>
+
+
 <p align="center" >
+   <!--
+   <div align="center">
+   
+   ![](https://komarev.com/ghpvc/?username=Raven-s-Soul&abbreviated=true&style=flat-square)
+   </div>
+   -->
    <img align="center" alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raven-s-soul&hide_border=true&show_icons=true&theme=github_dark">
    <img align="center" alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raven-s-soul&hide=html,&hide_border=true&theme=github_dark">
 </p>
