@@ -46,6 +46,9 @@ Here my arsenal of coding languages, with bunch of tecnologys and tools that I'v
 </p>
 <p align="center">
    <a href="https://github.com/Raven-s-Soul/Momento-FabricMod"> <img align="center" alt = "Momento-FabricMod" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&border_color=373D46&theme=github_dark&repo=Momento-FabricMod"></a>
+   <a> </a>
+   <a href="https://github.com/Raven-s-Soul/EchoFollower"> <img align="center" alt = "EchoFollower" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&border_color=373D46&theme=github_dark&repo=EchoFollower"></a> 
+   <br>
 </p> 
 </details>
 
