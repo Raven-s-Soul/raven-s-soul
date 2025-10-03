@@ -83,8 +83,13 @@ Here my arsenal of coding languages, with bunch of tecnologys and tools that I'v
    <br>
 </p>
 <p align="center">
-   <a href="https://github.com/Raven-s-Soul/DamnatioMemoriae"> <img align="center" alt = "DamnatioMemoriae" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&border_color=373D46&theme=github_dark&repo=DamnatioMemoriae"></a>
+   <a href="https://github.com/Raven-s-Soul/Fondamenti-di-Automatica"> <img align="center" alt = "Fondamenti-di-Automatica" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&border_color=373D46&theme=github_dark&repo=Fondamenti-di-Automatica"></a>
+  <!--  <a> </a> New Repo here <br> -->
 
+</p> 
+
+<p align="center">
+   <a href="https://github.com/Raven-s-Soul/DamnatioMemoriae"> <img align="center" alt = "DamnatioMemoriae" src="https://github-readme-stats.vercel.app/api/pin/?username=raven-s-soul&hide=html,&border_color=373D46&theme=github_dark&repo=DamnatioMemoriae"></a>
 </p> 
 </details>
 
